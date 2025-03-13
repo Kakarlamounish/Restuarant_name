@@ -1,0 +1,6 @@
+RESTAURANT NAME AND MENU ITEMS GENERATOR USING OPENAI AND LANGCHAIN
+·Designed and implemented an Al-driven application to generate creative and contextually relevant restaurant names and cuisine types based on user preferences.
+·Utilized LangChain to create prompt chains and manage conversationalmemory for iterative refinement of outputs.
+·Developed a user-friendly interface using Streamlit,enabling interactive input and real-time feedback for personalized recommendations.
+·Technologies:OpenAl API,LangChain,Python,
+Streamlit.
