@@ -3,3 +3,4 @@ RESTAURANT NAME AND MENU ITEMS GENERATOR USING OPENAI AND LANGCHAIN
 ·Utilized LangChain to create prompt chains and manage conversationalmemory for iterative refinement of outputs.
 ·Developed a user-friendly interface using Streamlit,enabling interactive input and real-time feedback for personalized recommendations.
 ·Technologies:OpenAl API,LangChain,Python,Streamlit.
+"C:\Users\mounish\Downloads\res1.png"
